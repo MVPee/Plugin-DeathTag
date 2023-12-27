@@ -1,0 +1,8 @@
+name: DeathBoard
+version: '${project.version}'
+main: be.mvpee.Main
+api-version: '1.20'
+load: STARTUP
+authors: [mvpee]
+description: Display number of deaths in tab as suffix
+website: www.mvpee.be
